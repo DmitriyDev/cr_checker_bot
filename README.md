@@ -9,6 +9,8 @@ Currently, bot has file based database and doesn't need something better.
 
 This bot uses `slack socket connection` for inbound commands and `slack api` for message delivery.
 
+Currently, this app uses file based DB with memory cache.
+
 #Setup
 
 1. Clone project
