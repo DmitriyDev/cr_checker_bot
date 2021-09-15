@@ -1,0 +1,4 @@
+.idea
+./docker/volume/credentials/*.csv
+./docker/volume/db/*.csv
+.env
